@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="ros_msft_loc" type="ros_msft_loc_node" name="ros_msft_loc_node" output="screen" />
+</launch>
